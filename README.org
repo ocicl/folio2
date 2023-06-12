@@ -1,0 +1,10 @@
+* folio2
+
+new major version of folio
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mikelevins/folio2.git   |
+| commit  | a96052f  |
+| systems | folio2 |
+|---------+-------------------------------------------|
+
